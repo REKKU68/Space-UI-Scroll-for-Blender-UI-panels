@@ -85,4 +85,4 @@ Scrolling behavior depends on whether the UI region supports View2D panning.
 
 ## License
 
-MIT License
+GPL License
