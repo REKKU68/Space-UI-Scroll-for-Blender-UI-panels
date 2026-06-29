@@ -44,7 +44,6 @@ This makes long UI panels much easier to navigate when using a pen tablet.
 | ----------------------- | ------------ |
 | Space press + release   | Search Menu  |
 | Space + Left Mouse Drag | UI scrolling |
-| Right Mouse or ESC      | Cancel       |
 
 ---
 
