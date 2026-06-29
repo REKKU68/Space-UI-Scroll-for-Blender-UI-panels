@@ -1,5 +1,7 @@
 # Space UI Scroll
 
+<img width="717" height="629" alt="space_ui_scroll" src="https://github.com/user-attachments/assets/9dd4392b-7a52-46e0-afad-b6e759830d38" />
+
 Space + Left Mouse drag scrolling for Blender UI panels.
 
 A small Blender addon that allows scrolling UI panels (N-panel, Properties, Outliner, etc.) by holding **Space** and dragging with **Left Mouse Button**, similar to Clip Studio Paint.
