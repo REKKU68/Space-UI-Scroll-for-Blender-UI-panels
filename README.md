@@ -20,7 +20,7 @@ A small Blender addon that allows scrolling UI panels (N-panel, Properties, Outl
   * Outliner
   * Other View2D-based UI regions
 
-If Space is pressed and released without dragging, Blender's Search Menu is opened, preserving the default behavior.
+If Space is pressed and released without dragging, Blㅅender's Search Menu is opened, preserving the default behavior.
 
 ---
 
@@ -50,14 +50,11 @@ This makes long UI panels much easier to navigate when using a pen tablet.
 
 ## Installation
 
-1. Download the addon `.py` file.
+1. Download the addon `.zip` file.
 2. Open Blender.
-3. Go to:
-
-Edit → Preferences → Add-ons → Install
-
-4. Select the file.
-5. Enable **Space UI Scroll**.
+3. Drag and drop the `.zip` file directly into the Blender window.
+4. Confirm the installation.
+5. Enable **Space UI Scroll** in the Add-ons list.
 
 ---
 
